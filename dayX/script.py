@@ -1,5 +1,4 @@
 import os
-import numpy as np
 
 INPUT = 'input'
 INPUT = 'test'
